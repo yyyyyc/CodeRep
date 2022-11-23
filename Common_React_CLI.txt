@@ -1,0 +1,19 @@
+
+Common React CLI
+		
+		
+npm start		
+npx react-scripts build		
+npx create-react-app my-app4 --template typescript		
+		
+		
+npm install react-redux 		
+npm install redux@4.1.0		
+npm install @reduxjs/toolkit		
+		
+npm install sass		
+npm i -D react-router-dom		
+
+
+// React W3Schools
+// https://www.w3schools.com/react/react_conditional_rendering.asp
